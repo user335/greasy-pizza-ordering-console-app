@@ -1,0 +1,7 @@
+C:\Users\Rob Clark\Desktop\tech academy coding bootcamp\csharp\greasy-pizza-ordering-console-app\greasy-pizza-orderer\greasy-pizza-orderer\bin\Debug\greasy-pizza-orderer.exe.config
+C:\Users\Rob Clark\Desktop\tech academy coding bootcamp\csharp\greasy-pizza-ordering-console-app\greasy-pizza-orderer\greasy-pizza-orderer\bin\Debug\greasy-pizza-orderer.exe
+C:\Users\Rob Clark\Desktop\tech academy coding bootcamp\csharp\greasy-pizza-ordering-console-app\greasy-pizza-orderer\greasy-pizza-orderer\bin\Debug\greasy-pizza-orderer.pdb
+C:\Users\Rob Clark\Desktop\tech academy coding bootcamp\csharp\greasy-pizza-ordering-console-app\greasy-pizza-orderer\greasy-pizza-orderer\obj\Debug\greasy-pizza-orderer.csprojAssemblyReference.cache
+C:\Users\Rob Clark\Desktop\tech academy coding bootcamp\csharp\greasy-pizza-ordering-console-app\greasy-pizza-orderer\greasy-pizza-orderer\obj\Debug\greasy-pizza-orderer.csproj.CoreCompileInputs.cache
+C:\Users\Rob Clark\Desktop\tech academy coding bootcamp\csharp\greasy-pizza-ordering-console-app\greasy-pizza-orderer\greasy-pizza-orderer\obj\Debug\greasy-pizza-orderer.exe
+C:\Users\Rob Clark\Desktop\tech academy coding bootcamp\csharp\greasy-pizza-ordering-console-app\greasy-pizza-orderer\greasy-pizza-orderer\obj\Debug\greasy-pizza-orderer.pdb
